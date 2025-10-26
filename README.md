@@ -3,7 +3,7 @@
 BLE/Wifi Jammer - ESP32 WROOM-32
 This i an slef-led project where I have built an Jammer using ESP32. This device is capable to interupt into bluetooth signals, disconnect the WiFi from any device under its range.
 
-🔧 Components Used:
+## 🔧 Components Used:
 
 ESP32 WROOM-32 :- Microcontroller board for processing
 
@@ -22,7 +22,7 @@ Charging Module :- TP4056
 Switch :- Slide Switch 3 pin
 
 
-🧑‍💻 Code Flash:
+## 🧑‍💻 Code Flash:
 
 Link :- https://smoochiee.github.io/Bluetooth-jammer-esp32/flash1
 
